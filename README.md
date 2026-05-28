@@ -41,7 +41,6 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
   <img src="https://img.shields.io/badge/Gestión__de__Calidad-FF9900?style=flat&logo=google-keep&logoColor=white" />
 
 
-<div align="center">
   
   <h1>📊 Mis Estadísticas</h1>
   
