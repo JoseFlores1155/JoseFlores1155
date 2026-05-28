@@ -11,32 +11,15 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### 🚀 Proyectos Destacados
+<h4>Lenguajes de programación</h4>
 
-* 🧠 **[Clasificador de Reconocimiento Facial](https://github.com/JoseFlores1155/clasificador-de-reconocimiento-facial):** Sistema en tiempo real desarrollado en Python utilizando el algoritmo LBPH y OpenCV para la identificación y organización automatizada de registros en carpetas.
-* 🛢️ **[Oleoducto de Inspección de Calidad](https://github.com/JoseFlores1155/oleoducto-de-inspeccion-de-calidad):** Proceso ETL robusto enfocado en la gestión de datos de inspección industrial empleando Python, SQLite y PostgreSQL.
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
+![Html](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-### 🛠️ Tecnologías y Metodologías Clave
-
-* **Lenguajes y Librerías:**  
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
-  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-
-* **Bases de Datos y Análisis:**  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-  ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-  ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)&nbsp;
-
-* **Estándares e Industria:**  
-  ![ISO 9001](https://img.shields.io/badge/-ISO_9001:2015-0052CC?style=flat)&nbsp;
-  ![5S](https://img.shields.io/badge/-Metodología_5S-47A248?style=flat)&nbsp;
-  ![Quality Management](https://img.shields.io/badge/-Gestión_de_Calidad-FF9900?style=flat)&nbsp;
-
-<br>
+<br><br>
 
 <div align="center">
   <h1>📊 Mis Estadísticas</h1>
@@ -53,6 +36,22 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseFlores1155&layout=compact&langs_count=8&theme=algolia" />
   </a>
   
+  <br><br>
+
+  <!-- 3. Tarjeta de Rachas (GitHub Streak) -->
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=JoseFlores1155&theme=dark&hide_border=false&locale=es&short_numbers=false" />
+  </a>
+</div>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<h3 align="left">Contáctame:</h3>
+<p align="left">
+  <a href="mailto:jf146438@gmail.com"><img src="https://img.shields.io/badge/Gmail-jf146438%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/jose-flores-77b1a6357" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Jose%20Flores-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
   <br><br>
 
   <!-- 3. Tarjeta de Rachas (GitHub Streak) -->
