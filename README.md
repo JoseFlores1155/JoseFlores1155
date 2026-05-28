@@ -11,9 +11,6 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h3 align="center">🛠️ Tecnologías y Metodologías Clave</h3>
-
-<p align="center">
   <!-- Fila 1: Lenguajes y Desarrollo -->
   <strong>Lenguajes y Librerías:</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />&nbsp;
@@ -22,17 +19,13 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-</p>
 
-<p align="center">
   <!-- Fila 2: Datos y Análisis -->
   <strong>Bases de Datos y Análisis:</strong><br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-</p>
 
-<p align="center">
   <!-- Fila 3: Estándares industriales -->
   <strong>Estándares e Industria:</strong><br>
   <img src="https://img.shields.io/badge/ISO__9001:2015-0052CC?style=flat&logo=google-sheets&logoColor=white" />&nbsp;
