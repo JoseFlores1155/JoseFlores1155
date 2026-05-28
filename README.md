@@ -25,7 +25,6 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
   </div>
 <div align=center>
 <!--- stats & Trophy (start) -->
-<div align="center">
 ![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseFlores1155&show_icons=true&theme=tokyonight&locale=es&include_all_commits=true&count_private=true)
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFlores1155&layout=compact&langs_count=8&theme=tokyonight&locale=es)
