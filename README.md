@@ -20,20 +20,15 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 <br>
 <div align=center>
  
-  <h1> Mis estadisticas </h1> 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
-<br>
-  </div>
-<div align=center>
-<!--- stats & Trophy (start) -->
-<a href="https://github.com/Anton-dev3306">
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anton-dev3306&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton-dev3306&layout=compact&langs_count=8&theme=algolia"/>
-</a>
- 
+<div align="center">
+  <h1>📊 Mis Estadísticas</h1>
+  
+  <!-- Contenedor centrado para tus tarjetas de GitHub -->
+  <a href="https://github.com/JoseFlores1155">
+    <img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseFlores1155&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseFlores1155&layout=compact&langs_count=8&theme=algolia" />
+  </a>
 </div>
-
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h3 align="left">Connect with me:</h3>
