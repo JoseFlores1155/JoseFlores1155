@@ -9,15 +9,13 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
  ### Actividad en GitHub 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoseFlores1155&theme=dark&hide_border=FALSO&locale=es&short_numbers=FALSO)  
 
-#### Lanuages 
+#### Lenguajes de programacion
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=flat&logo=solidity&logoColor=black)&nbsp;
+
 ![Html](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)
 ---
 ---
