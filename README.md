@@ -5,6 +5,10 @@ Hola, Soy <a href="[https://github.com/adilrahman](https://github.com/JoseFlores
 Profesional Técnico en Ciencia de Datos e Inteligencia Artificial 📊🤖
 
 Enfocado en transformar datos en soluciones operativas. Cuento con experiencia práctica desarrollando prototipos de visión artificial y sistemas automatizados de ingesta de datos. Comprometido con la mejora continua y los estándares de calidad. Abierto a oportunidades de crecimiento profesional.
+### Actividad en GitHub 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoseFlores1155&theme=dark&hide_border=FALSO&locale=es&short_numbers=FALSO)  
+<img src="https://github.com/AnderMendoza/AnderMendzoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 #### Lenguajes de programacion
 
@@ -28,10 +32,6 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
     <img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseFlores1155&layout=compact&langs_count=8&theme=algolia" />
   </a>
 </div>
-### Actividad en GitHub 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoseFlores1155&theme=dark&hide_border=FALSO&locale=es&short_numbers=FALSO)  
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
