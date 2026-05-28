@@ -11,8 +11,7 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-  <!-- Fila 1: Lenguajes y Desarrollo -->
-  <strong>Lenguajes y Librerías:</strong><br>
+ <strong>Lenguajes y Librerías:</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />&nbsp;
@@ -20,20 +19,24 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 
+
+
   <!-- Fila 2: Datos y Análisis -->
   <strong>Bases de Datos y Análisis:</strong><br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
 
-  <!-- Fila 3: Estándares industriales -->
-  <strong>Estándares e Industria:</strong><br>
+
+
+  <!-- Fila 3: Estándares industriales y Sistemas -->
+  <strong>Sistemas y Gestión Industrial:</strong><br>
+  <img src="https://img.shields.io/badge/SAP-008FD3?style=flat&logo=sap&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/ISO__9001:2015-0052CC?style=flat&logo=google-sheets&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Metodología__5S-47A248?style=flat&logo=roots&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Gestión__de__Calidad-FF9900?style=flat&logo=google-keep&logoColor=white" />
-</p>
 
-<br>
 
 <div align="center">
   <h1>📊 Mis Estadísticas</h1>
