@@ -48,12 +48,3 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 &nbsp;
 <a href="https://wa.me/528115688376" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-8115688376-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
 </p>
-
-## 📊 Mis estadísticas
- 
-<div align="center">
-![Jose GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseFlores1155&show_icons=true&theme=tokyonight&locale=es&include_all_commits=true&count_private=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFlores1155&layout=compact&langs_count=8&theme=tokyonight&locale=es)
- 
-</div>
