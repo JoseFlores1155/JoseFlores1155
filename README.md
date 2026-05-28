@@ -27,13 +27,19 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
   </div>
 <div align=center>
   <!-- Contenedor centrado para tus tarjetas de GitHub -->
+  <div align="center">
+  <!-- Primera gráfica: Estadísticas Generales -->
   <a href="https://github.com/JoseFlores1155">
-    <img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseFlores1155&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-    <img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseFlores1155&layout=compact&langs_count=8&theme=algolia" />
-   <"(https://github-readme-streak-stats.herokuapp.com?user=JoseFlores1155&theme=dark&hide_border=FALSO&locale=es&short_numbers=FALSO)">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseFlores1155&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  </a>
+  
+  <br><br> <!-- Espacio de separación -->
+
+  <!-- Segunda gráfica: Tus rachas (Streak) justo abajo -->
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=JoseFlores1155&theme=dark&hide_border=false&locale=es&short_numbers=false" />
   </a>
 </div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:jf146438@gmail.com"><img src="https://img.shields.io/badge/Gmail-jf146438%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
