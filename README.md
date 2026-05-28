@@ -2,7 +2,9 @@
   Hola, Soy <a href="https://github.com/JoseFlores1155"> Jose Flores </a>
   <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45px">
 </h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&vCenter=true&width=1000&height=50&lines=Data+Scientist+%7C+Data+Analyst+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D+%7C+OpenCV+%F0%9F%A5%BE;SQL+%26+PostgreSQL+Database+Management;ETL+Pipelines+%26+Data+Cleansing+%E2%9A%99%EF%B8%8F;Power+BI+%26+Excel+Dashboards+%F0%9F%92%BC;Machine+Learning+%26+Predictive+Insights" />
+</p>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p><strong>Profesional Técnico en Ciencia de Datos e Inteligencia Artificial 📊🤖</strong></p>
