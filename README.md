@@ -17,11 +17,11 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Html](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)
 
-## 📊 Mis estadísticas
-
-![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseFlores1155&show_icons=true&theme=tokyonight&locale=es)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFlores1155&layout=compact&theme=tokyonight&locale=es)
+<br>
+<div align=center>
+  <h1> Mis estadisticas </h1> 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
+<br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
  #contacto
