@@ -18,11 +18,13 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 ![Html](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)
 
 <br>
-<div align=center>
  
 <div align="center">
   <h1>📊 Mis Estadísticas</h1>
-  
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
+<br>
+  </div>
+<div align=center>
   <!-- Contenedor centrado para tus tarjetas de GitHub -->
   <a href="https://github.com/JoseFlores1155">
     <img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseFlores1155&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
