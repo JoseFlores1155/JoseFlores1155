@@ -43,9 +43,12 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
   <img src="https://img.shields.io/badge/Gestión__de__Calidad-FF9900?style=flat&logo=google-keep&logoColor=white" />
 
 
-  
-  <h1>📊 Mis Estadísticas</h1>
-  
+ <div align=center>
+  <h1> Mis estadisticas </h1> 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
+<br>
+  </div>
+<div align=center>
   <!-- 1. Tarjeta de Estadísticas Generales -->
   <a href="https://github.com/JoseFlores1155">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseFlores1155&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
