@@ -1,28 +1,14 @@
-# ¡Hola! Soy Jose Flores 👋
+# Profesional Técnico en Ciencia de Datos e Inteligencia Artificial 📊🤖
 
-### Profesional Técnico en Ciencia de Datos e Inteligencia Artificial 📊🤖
-Me especializo en el **análisis de datos, la automatización de procesos operativos y la optimización industrial**. Tengo experiencia aplicando herramientas analíticas en entornos de gestión de calidad (ISO 9001:2015) y almacenes, conectando el desarrollo de software con la reducción de mermas y la eficiencia en flujos de trabajo.
+Enfocado en transformar datos en soluciones operativas. Cuento con experiencia práctica desarrollando prototipos de visión artificial y sistemas automatizados de ingesta de datos. Comprometido con la mejora continua y los estándares de calidad. Abierto a oportunidades de crecimiento profesional.
 
----
+### 📊 Mis Estadísticas y Tecnologías
 
-## 🛠️ Tecnologías y Herramientas
+| Actividad en GitHub | Tecnologías Clave |
+| :---: | :--- |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoseFlores1155&theme=dark&hide_border=FALSE&locale=es&short_numbers=FALSE) | 🐍 **Lenguajes y Librerías:**<br>![Python](https://img.shields.shields.shields.shields/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenCV](https://img.shields.shields.shields.shields/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.shields.shields.shields/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)<br><br>🗄️ **Bases de Datos y Análisis:**<br>![SQL](https://img.shields.shields.shields.shields/badge/SQL-CC292B?style=for-the-badge) ![PostgreSQL](https://img.shields.shields.shields.shields/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Power%20BI](https://img.shields.shields.shields.shields/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |
 
-- **Análisis y Ciencia de Datos:** Python (Pandas, OpenCV, Scikit-learn), Machine Learning (Modelos de Clasificación/Regresión).
-- **Bases de Datos & ETL:** SQL, PostgreSQL (Diseño de arquitectura relacional y optimización de consultas).
-- **Visualización & Reportes:** Power BI, Microsoft Excel (Tableros dinámicos y funciones lógicas complejas).
-- **Sistemas Industriales:** SAP ERP, Metodología 5S, Core ISO 9001:2015.
-
----
-
-## 🚀 Proyectos Destacados
-
-### 📁 [Sistema Automatizado de Auditoría e Ingesta de Datos](https://github.com/JoseFlores1155)
-- **Tecnologías:** Python & PostgreSQL.
-- **Descripción:** Desarrollé un pipeline ETL para la migración, limpieza e ingesta de registros históricos de inspección. Diseñé la arquitectura relacional desde cero y programé consultas SQL avanzadas para la detección inmediata de anomalías en piezas de producción.
-
-### 📁 [Prototipo de Reconocimiento Facial y Clasificación de Imágenes](https://github.com/JoseFlores1155)
-- **Tecnologías:** Python & OpenCV.
-- **Descripción:** Desarrollé un algoritmo de visión artificial enfocado en la detección facial en tiempo real. Programé la lógica para automatizar el sistema de archivos, logrando que el software clasifique y almacene dinámicamente las imágenes capturadas en directorios según la identidad.
+![Most Used Languages](https://raw.githubusercontent.com/cesaralvrz/github-stats-transparent/output,generated/languages.svg)
 
 ---
 
