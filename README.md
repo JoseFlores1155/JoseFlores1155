@@ -23,10 +23,13 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
 <br>
 <a href="https://github.com/Anton-dev3306">
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anton-dev3306&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton-dev3306&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</div>
+ ## 🧠 Tecnologías que uso
+
+![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-80%25-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-75%25-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-85%25-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-70%25-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
