@@ -6,9 +6,8 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 
 | Actividad en GitHub | Tecnologías Clave |
 | :---: | :--- |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoseFlores1155&theme=dark&hide_border=FALSE&locale=es&short_numbers=FALSE) | 🐍 **Lenguajes y Librerías:**<br>![Python](https://img.shields.shields.shields.shields/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenCV](https://img.shields.shields.shields.shields/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.shields.shields.shields/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)<br><br>🗄️ **Bases de Datos y Análisis:**<br>![SQL](https://img.shields.shields.shields.shields/badge/SQL-CC292B?style=for-the-badge) ![PostgreSQL](https://img.shields.shields.shields.shields/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Power%20BI](https://img.shields.shields.shields.shields/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoseFlores1155&theme=dark&hide_border=FALSO&locale=es&short_numbers=FALSO) | ![Mis Lenguajes](https://github-readme-stats.vercel.ai/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark) 
 
-![Most Used Languages](https://raw.githubusercontent.com/cesaralvrz/github-stats-transparent/output,generated/languages.svg)
 
 ---
 
