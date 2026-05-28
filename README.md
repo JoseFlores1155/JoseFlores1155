@@ -46,26 +46,11 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h3 align="left">Contáctame:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
   <a href="mailto:jf146438@gmail.com"><img src="https://img.shields.io/badge/Gmail-jf146438%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
   &nbsp;
   <a href="https://linkedin.com/in/jose-flores-77b1a6357" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Jose%20Flores-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
-  <br><br>
-
-  <!-- 3. Tarjeta de Rachas (GitHub Streak) -->
-  <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=JoseFlores1155&theme=dark&hide_border=false&locale=es&short_numbers=false" />
-  </a>
-</div>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<h3 align="left">Contáctame:</h3>
-<p align="left">
-  <a href="mailto:jf146438@gmail.com"><img src="https://img.shields.io/badge/Gmail-jf146438%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/jose-flores-77b1a6357" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Jose%20Flores-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>//img.shields.io/badge/WhatsApp-8115688376-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/528115688376" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-8115688376-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
 </p>
