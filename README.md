@@ -12,6 +12,7 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
  <strong>Lenguajes y Librerías:</strong><br>
+ 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />&nbsp;
@@ -23,6 +24,7 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 
   <!-- Fila 2: Datos y Análisis -->
   <strong>Bases de Datos y Análisis:</strong><br>
+  
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />&nbsp;
@@ -32,6 +34,7 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 
   <!-- Fila 3: Estándares industriales y Sistemas -->
   <strong>Sistemas y Gestión Industrial:</strong><br>
+  
   <img src="https://img.shields.io/badge/SAP-008FD3?style=flat&logo=sap&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/ISO__9001:2015-0052CC?style=flat&logo=google-sheets&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Metodología__5S-47A248?style=flat&logo=roots&logoColor=white" />&nbsp;
@@ -39,6 +42,7 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 
 
 <div align="center">
+  
   <h1>📊 Mis Estadísticas</h1>
   
   <!-- 1. Tarjeta de Estadísticas Generales -->
@@ -71,3 +75,4 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
   &nbsp;
   <a href="https://wa.me/528115688376" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-8115688376-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
 </p>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
