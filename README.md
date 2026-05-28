@@ -30,18 +30,21 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
   
   <br><br> <!-- Espacio -->
 
-  <!-- 2. Tarjeta de Lenguajes Más Usados (La que había desaparecido) -->
+  <!-- 2. Tarjeta de Lenguajes Más Usados -->
   <a href="https://github.com/JoseFlores1155">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseFlores1155&layout=compact&langs_count=8&theme=algolia" />
   </a>
   
   <br><br> <!-- Espacio -->
 
-  <!-- 3. Tarjeta de Rachas (Streak) -->
+  <!-- 3. Tarjeta de Rachas (GitHub Streak) -->
   <a href="https://git.io/streak-stats">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=JoseFlores1155&theme=dark&hide_border=false&locale=es&short_numbers=false" />
   </a>
 </div>
+
+ <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </a> <br/></h1>
+ 
 <h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="mailto:jf146438@gmail.com"><img src="https://img.shields.io/badge/Gmail-jf146438%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
