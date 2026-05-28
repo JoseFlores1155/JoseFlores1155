@@ -22,9 +22,14 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
   <h1> Mis estadisticas </h1> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
 <br>
+<a href="https://github.com/Anton-dev3306">
+  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anton-dev3306&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton-dev3306&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
- #contacto
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:jf146438@gmail.com"><img src="https://img.shields.io/badge/Gmail-jf146438%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
