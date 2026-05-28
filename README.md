@@ -19,7 +19,19 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Html](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)
 
+* **Bases de Datos y Análisis:**  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+  ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+  ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)&nbsp;
+
+* **Estándares e Industria:**  
+  ![ISO 9001](https://img.shields.io/badge/-ISO_9001:2015-0052CC?style=flat)&nbsp;
+  ![5S](https://img.shields.io/badge/-Metodología_5S-47A248?style=flat)&nbsp;
+  ![Quality Management](https://img.shields.io/badge/-Gestión_de_Calidad-FF9900?style=flat)&nbsp;
+
 <br><br>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
 
 <div align="center">
   <h1>📊 Mis Estadísticas</h1>
