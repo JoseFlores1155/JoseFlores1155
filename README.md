@@ -25,15 +25,13 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
   </div>
 <div align=center>
 <!--- stats & Trophy (start) -->
-<a href="[https://github.com/Anton-dev330](https://github.com/JoseFlores1155/JoseFlores1155)">
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anton-dev3306&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton-dev3306&layout=compact&langs_count=8&theme=algolia"/>
 <div align="center">
 ![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseFlores1155&show_icons=true&theme=tokyonight&locale=es&include_all_commits=true&count_private=true)
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFlores1155&layout=compact&langs_count=8&theme=tokyonight&locale=es)
  
 </div>
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
