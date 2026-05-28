@@ -1,4 +1,4 @@
-<img src="[https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif](https://github.com/JoseFlores1155/JoseFlores1155/edit/main/README.md)" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1 align="center">
 Hola, Soy <a href="[https://github.com/adilrahman](https://github.com/JoseFlores1155/JoseFlores1155/edit/main/README.md)"> Jose Flores </a>
  <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </a> <br/>
