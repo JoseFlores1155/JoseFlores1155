@@ -20,13 +20,16 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 <br>
 <div align=center>
  
-## 📊 Mis estadísticas
- 
-<div align="center">
-![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseFlores1155&show_icons=true&theme=tokyonight&locale=es&include_all_commits=true&count_private=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFlores1155&layout=compact&langs_count=8&theme=tokyonight&locale=es)
- 
+  <h1> Mis estadisticas </h1> 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
+<br>
+  </div>
+<div align=center>
+<!--- stats & Trophy (start) -->
+<a href="https://github.com/Anton-dev3306">
+  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anton-dev3306&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton-dev3306&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </div>
 
  
@@ -45,3 +48,12 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 &nbsp;
 <a href="https://wa.me/528115688376" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-8115688376-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
 </p>
+
+## 📊 Mis estadísticas
+ 
+<div align="center">
+![Jose GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseFlores1155&show_icons=true&theme=tokyonight&locale=es&include_all_commits=true&count_private=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFlores1155&layout=compact&langs_count=8&theme=tokyonight&locale=es)
+ 
+</div>
