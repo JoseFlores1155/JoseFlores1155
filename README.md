@@ -19,13 +19,16 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 
 <br>
 <div align=center>
-  <h1> Mis estadisticas </h1> 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
-<br>
-  </div>
-<div align=center>
-<!--- stats & Trophy (start) -->
+ 
+## 📊 Mis estadísticas
+ 
+<div align="center">
 ![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseFlores1155&show_icons=true&theme=tokyonight&locale=es&include_all_commits=true&count_private=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFlores1155&layout=compact&langs_count=8&theme=tokyonight&locale=es)
+ 
+</div>
+
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFlores1155&layout=compact&langs_count=8&theme=tokyonight&locale=es)
  
