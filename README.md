@@ -11,29 +11,36 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h4>Lenguajes de programación</h4>
+<h3 align="center">🛠️ Tecnologías y Metodologías Clave</h3>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
-![Html](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)
+<p align="center">
+  <!-- Fila 1: Lenguajes y Desarrollo -->
+  <strong>Lenguajes y Librerías:</strong><br>
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />&nbsp;
+  <img src="https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv" />&nbsp;
+  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-150458?style=flat&logo=java&logoColor=orange" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+</p>
 
-* **Bases de Datos y Análisis:**
-  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-  ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-  ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)&nbsp;
+<p align="center">
+  <!-- Fila 2: Datos y Análisis -->
+  <strong>Bases de Datos y Análisis:</strong><br>
+  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />&nbsp;
+  <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite" />&nbsp;
+  <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+</p>
 
-* **Estándares e Industria:**
-  
-  ![ISO 9001](https://img.shields.io/badge/-ISO_9001:2015-0052CC?style=flat)&nbsp;
-  ![5S](https://img.shields.io/badge/-Metodología_5S-47A248?style=flat)&nbsp;
-  ![Quality Management](https://img.shields.io/badge/-Gestión_de_Calidad-FF9900?style=flat)&nbsp;
+<p align="center">
+  <!-- Fila 3: Estándares industriales -->
+  <strong>Estándares e Industria:</strong><br>
+  <img src="https://img.shields.io/badge/-ISO_9001:2015-0052CC?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/-Metodología_5S-47A248?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/-Gestión_de_Calidad-FF9900?style=flat" />
+</p>
 
-<br><br>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
+<br>
 
 <div align="center">
   <h1>📊 Mis Estadísticas</h1>
