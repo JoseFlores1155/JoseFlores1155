@@ -30,7 +30,12 @@ Enfocado en transformar datos en soluciones operativas. Cuento con experiencia p
   <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton-dev3306&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
-
+![Python](https://img.shields.io/badge/Python-95%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-85%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-80%25-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-90%25-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-75%25-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-80%25-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
